@@ -1,0 +1,39 @@
+nav {
+background-color: #333;
+color: #fff;
+display: flex;
+justify-content: space-between;
+padding: 10px;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 50px;
+}
+
+footer{
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
